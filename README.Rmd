@@ -53,7 +53,7 @@ In addition to data frames/tibbles, dplyr makes working with other computational
 ## Installation
 
 ```{r, eval = FALSE}
-# The easiest way to get dplyr is to install the whole tidyverse:
+# The easiest way to get dplyr is to install the whole tidyverse package which comes with dplyr and other data manipulation packages:
 install.packages("tidyverse")
 
 # Alternatively, install just dplyr:
